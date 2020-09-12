@@ -1,0 +1,52 @@
+body{
+  -webkit_user-select: none;
+  -moz-user_select: none;
+  -ms_user-select: none;
+  user-select: none;
+}
+h1{
+  font-size: 30px;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  padding-left: 0px;
+}
+li{
+  font-size: 17px;
+  text-align: center;
+  font-family: "Nanum Gothic", sans-serif;
+  line-height: 1.5;
+  white-space: normal;
+  word-break: keep-all;
+  border-top : 1px solid gray;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+
+}
+h2{
+  font-size: 17px;
+  text-align: center;
+  font-family: "Nanum Gothic", sans-serif;
+  white-space: normal;
+  word-break: keep-all;
+}
+p{
+  font-size: 15px;
+  font-family: "Nanum Gothic", sans-serif;
+  text-align: left;
+  line-height: 1.5;
+  white-space: normal;
+  word-break: keep-all;
+}
+a{
+  color:black;
+  text-decoration: none
+}
+#guide{
+   font-size: 15px;
+   text-align: center;
+   font-family: "Nanum Gothic", sans-serif;
+}
